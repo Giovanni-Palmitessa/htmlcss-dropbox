@@ -223,6 +223,25 @@ nav{
     padding-top: 3rem;
 }
 
+.offers{
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.offers-list li{
+    list-style: none;
+    font-size: 14px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    line-height: 20px;
+}
+
+.check{
+    color: #0061ff;
+}
+
 
 
 
