@@ -152,5 +152,16 @@ nav{
     border: 1px solid lightgray;
 }
 
+.cards{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.card{
+    width: calc(100% / 3 - 2rem);
+    border: 1px solid lightgray;
+}
+
 
 
