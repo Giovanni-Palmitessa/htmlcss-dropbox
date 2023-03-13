@@ -233,13 +233,20 @@ nav{
 .offers-list li{
     list-style: none;
     font-size: 14px;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     padding-left: 10px;
     line-height: 20px;
 }
 
 .check{
     color: #0061ff;
+}
+
+#prova-2{
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    padding-inline: 25px;
 }
 
 
