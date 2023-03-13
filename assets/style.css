@@ -62,7 +62,6 @@ nav{
 
 .lightblue{
     background-color: #b4d0e7;
-    height: 100vh;
     margin-top: 5rem;
 }
 
@@ -95,6 +94,7 @@ nav{
 
 .header-right > img{
     width: 100%;
+    margin-bottom: -1rem;
 }
 
 .header-left{
@@ -103,6 +103,17 @@ nav{
     gap: 2rem;
 }
 
+/* Main */
+
+.container{
+    max-width: 700px;
+    margin-inline: auto;
+    margin-top: 3rem;
+}
+
+.section-title{
+    font-size: 2rem;
+}
 
 
 
