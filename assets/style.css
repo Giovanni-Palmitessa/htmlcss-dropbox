@@ -3,3 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.left{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.list-left{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.list-left li > a{
+    text-decoration: none;
+    color: black;
+    padding-inline: 1.2rem;
+    font-size: 0.9rem;
+}
