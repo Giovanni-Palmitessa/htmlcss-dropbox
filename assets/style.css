@@ -133,5 +133,23 @@ nav{
     border: 5px solid #0061ff;
 }
 
+.choose{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.choose1{
+    padding-right: 30px;
+}
+
+.circle{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid lightgray;
+}
+
 
 
