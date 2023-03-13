@@ -163,5 +163,14 @@ nav{
     border: 1px solid lightgray;
 }
 
+.first-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
 
 
