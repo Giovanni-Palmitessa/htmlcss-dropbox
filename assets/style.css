@@ -1,3 +1,5 @@
+/* Formattazione */
+
 *{
     margin: 0;
     padding: 0;
@@ -8,14 +10,16 @@ html{
     font-family: 'Montserrat', sans-serif;
 }
 
+/* Header */
+
 nav{
     display: flex;
     justify-content: space-between;
-    position: fixed;
+    /* position: fixed;
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1;
+    z-index: 1; */
 }
 
 .left, .right{
@@ -53,5 +57,48 @@ nav{
     color: white;
     margin-right: 1rem;
 }
+
+.lightblue{
+    background-color: #b4d0e7;
+}
+
+.container-big{
+    max-width: 1000px;
+    margin-inline: auto;
+}
+
+.main-title{
+    font-size: 4rem;
+    font-weight: 700;
+    line-height: 90px;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+
+.main-header-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+#inizia{
+    color: white;
+    text-decoration: none;
+}
+
+.header-right{
+    flex: 0 1 3160px;
+}
+
+.header-right > img{
+    width: 100%;
+}
+
+.header-left{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+
 
 
