@@ -121,8 +121,16 @@ nav{
 
 .section-title{
     padding-top: 4rem;
-    padding-bottom: 2.5rem;
+    padding-bottom: 3rem;
     font-size: 2rem;
+}
+
+.blue-circle{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 5px solid #0061ff;
 }
 
 
