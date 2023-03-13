@@ -114,7 +114,7 @@ nav{
 /* Main */
 
 .container{
-    max-width: 700px;
+    max-width: 850px;
     margin-inline: auto;
     margin-top: 3rem;
 }
@@ -185,6 +185,45 @@ nav{
     padding-bottom: 12px;
     padding-left: 10px;
 }
+
+.month{
+    color: lightslategray;
+    font-size: 13px;
+    padding-left: 10px;
+    padding-bottom: 3rem;
+}
+
+.services{
+    list-style: none;
+    font-size: 14px;
+}
+
+.services li{
+    padding-bottom: 15px;
+    padding-left: 10px;
+}
+
+#prova-1{
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    padding-inline: 25px;
+}
+
+.prova-gratis{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.buy{
+    font-size: 14px;
+    padding-left: 15px;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+
 
 
 
