@@ -8,12 +8,22 @@ html{
     font-family: 'Montserrat', sans-serif;
 }
 
-.left{
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+nav{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
 }
 
-.list-left{
+.left, .right{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.list-left, .list-right{
     display: flex;
     list-style: none;
     align-items: center;
@@ -25,3 +35,23 @@ html{
     padding-inline: 1.2rem;
     font-size: 0.9rem;
 }
+
+.list-right li > a{
+    text-decoration: none;
+    color: black;
+    padding-inline: 1.2rem;
+    font-size: 0.9rem;
+}
+
+.blue-button{
+    background-color: #0061ff;
+    color: white;
+    padding: 7px;
+}
+
+#accedi{
+    color: white;
+    margin-right: 1rem;
+}
+
+
