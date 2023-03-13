@@ -137,6 +137,7 @@ nav{
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    padding-bottom: 3rem;
 }
 
 .choose1{
