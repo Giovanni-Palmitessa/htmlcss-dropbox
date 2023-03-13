@@ -86,21 +86,29 @@ nav{
 #inizia{
     color: white;
     text-decoration: none;
+    align-self: flex-start;
 }
 
 .header-right{
-    flex: 0 1 3160px;
+    flex: 0 1 60%;
 }
 
 .header-right > img{
     width: 100%;
-    margin-bottom: -1rem;
+    margin-bottom: -50px;
 }
 
 .header-left{
     display: flex;
+    flex: 0 1 40%;
     flex-direction: column;
     gap: 2rem;
+}
+
+#arrow{
+    color: black;
+    font-size: 50px;
+    margin-top: -20px;
 }
 
 /* Main */
@@ -112,6 +120,8 @@ nav{
 }
 
 .section-title{
+    padding-top: 4rem;
+    padding-bottom: 2.5rem;
     font-size: 2rem;
 }
 
