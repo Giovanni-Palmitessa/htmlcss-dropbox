@@ -262,6 +262,32 @@ nav{
 .orizontal-card{
     margin-top: 40px;
     border: 1px solid lightgray;
+    margin-bottom: 2rem;
+}
+
+.orizontal-card .orizontal-left p{
+    padding-top: 30px;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+.orizontal-content{
+    display: flex;
+}
+
+.orizontal-left{
+    flex: 0 1 70%;
+}
+
+.orizontal-right{
+    flex: 0 1 30%;
+    padding-top: 30px;
+}
+
+#contatta{
+    font-size: 13px;
+    padding-inline: 25px;
 }
 
 
