@@ -350,6 +350,7 @@ nav{
     font-size: 13px;
 }
 
+
 .container-very-small{
     max-width: 600px;
     line-height: 45px;
@@ -365,7 +366,7 @@ nav{
 }
 
 .box-left, .box-center, .box-right{
-    width: 33%;
+    width: 33,333333%;
 }
 
 .box{
@@ -448,6 +449,36 @@ nav{
 .business{
     background-color: #b4d0e7;
 }
+
+.prova-business{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0;
+}
+
+.title-magenta{
+    color: #61082b;
+    font-size: 2rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+#button-white-black{
+    color: black;
+    text-decoration: none;
+    padding: 8px 30px;
+    background-color: white;
+    font-size: 13px;
+}
+
+.prova-business-left{
+    flex: 0 1 50%;
+}
+
+
+
+
 
 
 
