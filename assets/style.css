@@ -22,11 +22,11 @@ nav{
     left: 0;
     right: 0;
     z-index: 1;
+    white-space: nowrap;
 }
 
 .left, .right{
     padding-top: 2rem;
-    padding-bottom: 3rem;
 }
 
 .list-left, .list-right{
@@ -53,6 +53,7 @@ nav{
     background-color: #0061ff;
     color: white;
     padding: 7px;
+    white-space: nowrap;
 }
 
 #accedi{
@@ -90,7 +91,7 @@ nav{
 }
 
 .header-right{
-    flex: 0 1 60%;
+    flex: 0 0 60%;
 }
 
 .header-right > img{
@@ -100,15 +101,15 @@ nav{
 
 .header-left{
     display: flex;
-    flex: 0 1 40%;
+    flex: 0 0 40%;
     flex-direction: column;
     gap: 2rem;
 }
 
 #arrow{
     color: black;
-    font-size: 50px;
-    margin-top: -20px;
+    font-size: 40px;
+    margin-top: -15px;
 }
 
 /* Main */
