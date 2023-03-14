@@ -227,7 +227,7 @@ nav{
 }
 
 .gray-hr{
-    color:lightgray;
+    color:#d4d4d7;
     width: 50px;
     margin-left: 15px;
 }
@@ -440,6 +440,11 @@ nav{
 .center-box-content{
     max-width: 85%;
     margin-inline: auto;
+}
+
+.line-central-box{
+    width: 120px;
+    color: #e3e3e5;
 }
 
 .center-box-content img{
