@@ -226,11 +226,18 @@ nav{
     padding-top: 3rem;
 }
 
+.gray-hr{
+    color:lightgray;
+    width: 50px;
+    margin-left: 15px;
+}
+
 .offers{
     font-size: 15px;
     font-weight: bold;
     padding-left: 15px;
     padding-bottom: 15px;
+    padding-top: 3rem;
 }
 
 .offers-list li{
