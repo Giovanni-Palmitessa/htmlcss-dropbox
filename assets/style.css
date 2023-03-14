@@ -327,10 +327,15 @@ nav{
 
 .operations{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .operation{
     width: calc(100% / 3 - 2rem);
+}
+
+.operation img{
+    width: 100%;
 }
 
 
