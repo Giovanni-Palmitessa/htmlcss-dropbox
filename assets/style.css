@@ -518,6 +518,7 @@ nav{
 
 footer{
     background-color: black;
+    padding-top: 50px;
 }
 
 .footer-list{
@@ -528,6 +529,16 @@ footer{
 
 .footer-list li{
     list-style: none;
+}
+
+.footer-list > li{
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.links{
+    font-weight: 400;
+    font-size: 13px;
 }
 
 
