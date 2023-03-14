@@ -514,6 +514,22 @@ nav{
     padding-bottom: 7rem;
 }
 
+/* FOOTER */
+
+footer{
+    background-color: black;
+}
+
+.footer-list{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-list li{
+    list-style: none;
+}
+
 
 
 
