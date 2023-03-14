@@ -325,6 +325,14 @@ nav{
     font-size: 13px;
 }
 
+.operations{
+    display: flex;
+}
+
+.operation{
+    width: calc(100% / 3 - 2rem);
+}
+
 
 
 
