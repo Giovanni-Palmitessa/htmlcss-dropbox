@@ -109,7 +109,7 @@ nav{
 
 #arrow{
     color: black;
-    font-size: 40px;
+    font-size: 30px;
     margin-top: -15px;
 }
 
@@ -519,6 +519,7 @@ nav{
 footer{
     background-color: black;
     padding-top: 50px;
+    padding-bottom: 2rem;
 }
 
 .footer-list{
@@ -544,6 +545,17 @@ footer{
     gap: 1rem;
     padding-top: 30px;
     padding-bottom: 70px;
+}
+
+.hr-white{
+    color: white;
+    width: 100px;
+    margin-bottom: 3rem;
+}
+
+.world{
+    color: #999999;
+    font-size: 12px;
 }
 
 
