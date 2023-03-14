@@ -357,7 +357,11 @@ nav{
 
 .container-very-small a{
     font-size: 14px;
-    padding-bottom: 80px;
+}
+
+.boxes{
+    display: flex;
+    margin-top: 100px;
 }
 
 .box-left, .box-center, .box-right{
@@ -398,6 +402,27 @@ nav{
 
 .red{
     background-color: #ff1c1c;
+}
+
+.box-right{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.red2{
+    background-color: #d5001f;
+}
+
+.lightblue2{
+    background-color: #b4d0e7;
+}
+
+.bluette{
+    background-color: #0d2481;
+}
+
+.yellow{
+    background-color: #ffd830;
 }
 
 
