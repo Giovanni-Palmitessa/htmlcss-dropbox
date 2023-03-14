@@ -26,7 +26,8 @@ nav{
 }
 
 .left, .right{
-    padding-top: 2rem;
+    display: flex;
+    align-items: center;
 }
 
 .list-left, .list-right{
@@ -256,6 +257,11 @@ nav{
     text-decoration: none;
     font-size: 13px;
     padding-inline: 70px;
+}
+
+.orizontal-card{
+    margin-top: 40px;
+    border: 1px solid lightgray;
 }
 
 
