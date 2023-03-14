@@ -493,6 +493,18 @@ nav{
     color: #b5b5b5;
 }
 
+.row-faq{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.row-faq p{
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
 
 
 
