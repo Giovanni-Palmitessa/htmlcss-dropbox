@@ -328,7 +328,9 @@ nav{
 .operations{
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-bottom: 1rem;
 }
 
 .operation{
@@ -347,6 +349,12 @@ nav{
 .operation p{
     font-size: 13px;
 }
+
+.container-very-small{
+    max-width: 600px;
+    line-height: 45px;
+}
+
 
 
 
