@@ -425,6 +425,14 @@ nav{
     background-color: #ffd830;
 }
 
+.box-center{
+    background-color: #f5f5f5;
+}
+
+.center-box-content{
+    max-width: 90%;
+    margin-inline: auto;
+}
 
 
 
