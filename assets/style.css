@@ -370,6 +370,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex: 0 1 auto;
 }
 
 .box img{
@@ -377,9 +378,22 @@ nav{
     filter: invert(1);
 }
 
+.box-left{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .green{
     background-color: #a2d39b;
     border: 15px solid #d1e9cd;
+}
+
+.magenta{
+    background-color: #61082b;
+}
+
+.lightbluette{
+    background-color: #0093ce;
 }
 
 
