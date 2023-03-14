@@ -328,6 +328,7 @@ nav{
 .operations{
     display: flex;
     flex-wrap: wrap;
+    gap: 1rem;
 }
 
 .operation{
@@ -341,6 +342,10 @@ nav{
 .operation h3{
     line-height: 25px;
     padding-bottom: 1rem;
+}
+
+.operation p{
+    font-size: 13px;
 }
 
 
