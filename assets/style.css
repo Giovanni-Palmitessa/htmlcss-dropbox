@@ -430,13 +430,18 @@ nav{
 }
 
 .center-box-content{
-    max-width: 90%;
+    max-width: 85%;
     margin-inline: auto;
 }
 
 .center-box-content img{
     width: 50%;
     padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.center-box-content p{
+    font-size: 12px;
     padding-bottom: 3rem;
 }
 
