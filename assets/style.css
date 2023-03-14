@@ -443,8 +443,9 @@ nav{
 }
 
 .line-central-box{
-    width: 120px;
+    width: 100px;
     color: #e3e3e5;
+    margin-bottom: 3rem;
 }
 
 .center-box-content img{
@@ -486,6 +487,10 @@ nav{
 
 .prova-business-left{
     flex: 0 1 50%;
+}
+
+.faq{
+    color: #b5b5b5;
 }
 
 
