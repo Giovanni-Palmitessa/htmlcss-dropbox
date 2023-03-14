@@ -360,6 +360,32 @@ nav{
     padding-bottom: 80px;
 }
 
+.box-left, .box-center, .box-right{
+    width: 33%;
+}
+
+.box{
+    width: calc(100% / 2);
+    aspect-ratio: 1 / 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box img{
+    width: 50%;
+    filter: invert(1);
+}
+
+.green{
+    background-color: #a2d39b;
+    border: 15px solid #d1e9cd;
+}
+
+
+
+
+
 
 
 
