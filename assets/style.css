@@ -423,6 +423,9 @@ nav{
 
 .green{
     background-color: #a2d39b;
+}
+
+.green:hover{
     border: 15px solid #d1e9cd;
 }
 
@@ -430,12 +433,24 @@ nav{
     background-color: #61082b;
 }
 
+.magenta:hover{
+    border: 15px solid #75354f;
+}
+
 .lightbluette{
     background-color: #0093ce;
 }
 
+.lightbluette:hover{
+    border: 15px solid #7ab6cd
+}
+
 .red{
     background-color: #ff1c1c;
+}
+
+.red:hover{
+    border: 15px solid #f59393
 }
 
 .box-right{
@@ -447,16 +462,32 @@ nav{
     background-color: #d5001f;
 }
 
+.red2:hover{
+    border: 15px solid #c86876;
+}
+
 .lightblue2{
     background-color: #b4d0e7;
+}
+
+.lightblue2:hover{
+    border: 15px solid #dbddde
 }
 
 .bluette{
     background-color: #0d2481;
 }
 
+.bluette:hover{
+    border: 15px solid #414c79
+}
+
 .yellow{
     background-color: #ffd830;
+}
+
+.yellow:hover{
+    border: 15px solid #f7e493
 }
 
 .box-center{
