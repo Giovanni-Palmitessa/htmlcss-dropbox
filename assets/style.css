@@ -186,6 +186,9 @@ nav{
 
 .services li{
     display: flex;
+    font-size: 14px;
+    padding-bottom: 15px;
+    padding-left: 7px;
 }
 
 .small-icon{
@@ -205,31 +208,26 @@ nav{
     font-size: 1.2rem;
     padding-top: 25px;
     padding-bottom: 20px;
-    padding-left: 10px;
+    padding-left: 7px;
 }
 
 .cost{
     font-size: 14px;
     font-weight: bold;
     padding-bottom: 12px;
-    padding-left: 10px;
+    padding-left: 7px;
 }
 
 .month{
     color: lightslategray;
     font-size: 13px;
-    padding-left: 10px;
+    padding-left: 7px;
     padding-bottom: 3rem;
 }
 
 .services{
     list-style: none;
     font-size: 14px;
-}
-
-.services li{
-    padding-bottom: 15px;
-    padding-left: 10px;
 }
 
 #prova-1{
@@ -268,14 +266,16 @@ nav{
 
 .offers-list li{
     list-style: none;
+    display: flex;
     font-size: 14px;
     padding-bottom: 15px;
-    padding-left: 10px;
+    padding-left: 7px;
     line-height: 20px;
 }
 
 .check{
     color: #0061ff;
+    padding-top: 4px;
 }
 
 #prova-2{
