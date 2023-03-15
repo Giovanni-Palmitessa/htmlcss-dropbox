@@ -54,8 +54,18 @@ nav{
     height: 100%;
 }
 
+
+.list-left li > a:hover,
+.list-right li > a:hover{
+    border-bottom: 3px solid black;
+}
+
 .btn{
     align-self: center;
+}
+
+#accedi:hover{
+    border-bottom: none;
 }
 
 .blue-button{
