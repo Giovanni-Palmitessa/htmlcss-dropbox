@@ -166,6 +166,14 @@ nav{
     padding-bottom: 30px;
 }
 
+.services li{
+    display: flex;
+}
+
+.small-icon{
+    margin-right: 6px;
+}
+
 .first-row{
     display: flex;
     align-items: center;
