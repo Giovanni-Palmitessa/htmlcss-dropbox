@@ -39,7 +39,6 @@ nav{
     color: black;
     padding-inline: 1.2rem;
     font-size: 0.9rem;
-    display: inline-block;
     display: flex;
     align-items: center;
     height: 100%;
@@ -49,8 +48,7 @@ nav{
     text-decoration: none;
     color: black;
     padding-inline: 1.2rem;
-    font-size: 0.9rem;
-    display: inline-block;
+    font-size: 0.9rem; 
     display: flex;
     align-items: center;
     height: 100%;
